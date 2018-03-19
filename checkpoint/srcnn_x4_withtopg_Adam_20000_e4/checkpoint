@@ -1,0 +1,6 @@
+model_checkpoint_path: "SRCNN.model-3000"
+all_model_checkpoint_paths: "SRCNN.model-1000"
+all_model_checkpoint_paths: "SRCNN.model-1500"
+all_model_checkpoint_paths: "SRCNN.model-2000"
+all_model_checkpoint_paths: "SRCNN.model-2500"
+all_model_checkpoint_paths: "SRCNN.model-3000"

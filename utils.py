@@ -8,6 +8,7 @@ import h5py
 import numpy as np
 
 import tensorflow as tf
+import scipy.ndimage as sci
 
 
 xrange = range
@@ -33,6 +34,25 @@ def read_data(path):
     label=np.expand_dims(label,axis=-1)
 
     return data, label
+
+def make_label(label, step, scale_factor):
+    s1=label.shape
+    r=sci.zoom(label,(1,(step+1)*2/scale_factor,(step+1)*2/scale_factor,1))
+    s2=r.shape
+    r=sci.zoom(r,(1,s1[1]/s2[1],s1[2]/s2[2],1))
+    return r
+
+def make_topg(data, step, scale_factor):
+    s1=data.shape
+    r=data[:,:,:,1]
+    r=sci.zoom(r,(1,(step+1)*2/scale_factor,(step+1)*2/scale_factor))
+    s2 = r.shape
+    r = sci.zoom(r,(1,s1[1]/s2[1],s1[2]/s2[2]))
+    return r
+
+
+
+
 
 
 
