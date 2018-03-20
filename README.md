@@ -1,12 +1,40 @@
 # DeepIceSheetDS2.5
 
-**Improving DeepIceSheetDS2 using recurrent 2x downscaling**
 
-## Method and model
+**Downscaling ice-thickness maps using SRCNN(super resolution based on Deep Neural Networks)**
 
-There is no change in the main model, it's still a 3 layer SRCNN. But this time, **for dowscaling >2x**, the program is
-recurrent. Meaning that, for downscaling 4x, the LR map will be first downscaled 2x with a 2x downscaled label, and then
-the 2x downscaled prediction will be downcaled another 2x with the original label.
+
+This is the first step of my internship work in the Antarctic Research Centre (Victoria University of Wellington,
+ New-Zealand).
+I followed the idea of processing Ice Thickness maps (thk) as pictures, applying them
+Deep Leaning(DL) SRCNN methods, inspired and helped by T. Vandal paper on DeepSD (https://arxiv.org/abs/1703.03126). 
+My model implementation in Python3 of SRCNN using Tensorflow has been inspired by GitHub user 
+tegg89 repository(https://github.com/tegg89/SRCNN-Tensorflow).
+
+## Methodology
+I had an Antarctic thk [dataset](/data/RCP_start.nc) with a 5km resolution. This dataset also contains 
+topography and surface's nature.
+
+![RCP_start](data/RCP_start.png). 
+
+The main idea is to upscale data to a s * 5km map -where s is the scale factor multiple of 2- train the model with s * 5km 
+inputs and 5km label, and tune it to get results as good as possible. The Deep Learning library used is Tensorflow.
+## Data Preparation 
+
+[PyFile](ncProcessing.py)
+
+I "cutted" in the 5km Antarctic map to extract a rectangle of 820x410 measures, x axe from -1741591m to 2356950m and y axe from -915923m
+to 1131135m, with a south polar stereographic projection, with a latitude of true scale at -71.
+Then I cutted this rectangle once more, generating 200 41x41 "pictures" of thk (with their coordinates in another channel of the matrix).
+This 200 41x41 5km pictures will be the __labels__ for the model. I copied them and downscaled the copy to 200 20x20 pictures, 
+and then upscale them using simple bicubic interpolation to 200 41*41 now 10km pictures, which will be the __inputs data__ for the model.
+Endly I splitted both labels and data using Scikit-learn toolkit into a 140 (inputs, label) training set and 60 (inputs, label)  testing set.
+
+## Model : recurrent-SRCNN 
+
+ **for dowscaling >2x**, the program can be called a **recurrent-SRCNN**, meaning that, for downscaling 4x, the LR map
+ will be first downscaled 2x with a 2x downscaled label, and then the 2x downscaled prediction will be downcaled another
+ 2x with the original label.
 
 ## Results
 
@@ -14,11 +42,12 @@ the 2x downscaled prediction will be downcaled another 2x with the original labe
 
 **8x downscaling** (30000 epochs, learning rate 1e-4): bicubic error : 1.6e-2, model : 7.1e-4
 
-**16x downscaling**
+**16x downscaling** (30000 epochs, learning rate 1e-4): bicubic error : 3.6e-3, model : 1.1e-3
 
 ## Issues encountered 
 
-Build this recurrent SRCNN using Tensorflow asked me more than 1 week of work, from understanding how setting outputs
+Build this recurrent SRCNN using Tensorflow asked me more than 1 week of work from the initial one-step (suited to ice-thk problem)
+SRCNN, from understanding how setting outputs
 from the first 2x dowscaling step as the input of the next step to reduce the computation complexity. Indeed the first 
 runs of the model, the computation time was more than 20 seconds for 10 epochs, and I realized then that the more advanced 
 epoch it was, the more time it will last. I understood that my algorithm was not optimized because I added new nodes to the 

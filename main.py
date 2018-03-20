@@ -21,17 +21,17 @@ flags.DEFINE_integer("label_size", 41, "The size of label to produce [21]")
 flags.DEFINE_float("learning_rate", 1e-4, "The learning rate of gradient descent algorithm [1e-4]")
 flags.DEFINE_integer("ci_dim", 2, "Number of channels of the input")
 flags.DEFINE_integer("co_dim",1, "Number of channels of the output")
-flags.DEFINE_integer("scale_factor", 8, "Scale factor")
+flags.DEFINE_integer("scale_factor", 4, "Scale factor")
 ###Save folder parameters
-flags.DEFINE_string("train_dir","train_x8","Train h5 file directory")
-flags.DEFINE_string("test_dir","test_x8","Train h5 file directory")
+flags.DEFINE_string("train_dir","train_x4","Train h5 file directory")
+flags.DEFINE_string("test_dir","test_x4","Train h5 file directory")
 flags.DEFINE_string("checkpoint_dir", "checkpoint", "Name of checkpoint directory [checkpoint]")
-flags.DEFINE_string("model_carac","x8_withtopg_30000","Define model")
+flags.DEFINE_string("model_carac","x4_withtopg_100000","Define model")
 flags.DEFINE_string("sample_dir", "sample", "Name of sample directory [sample]")
-flags.DEFINE_string("result_fold","x4_results_30000_adam_e4","save folder for image is 'save_result'")
+flags.DEFINE_string("result_fold","x4_results_30000_e4","save folder for image is 'save_result'")
 ###Booleans
 flags.DEFINE_boolean("is_train",False, "True for training, False for testing [True]")
-flags.DEFINE_boolean("save_result", False, "save predicted and label image")
+flags.DEFINE_boolean("save_result", True, "save predicted and label image")
 
 FLAGS = flags.FLAGS
 
