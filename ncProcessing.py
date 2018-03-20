@@ -62,7 +62,7 @@ def make_datasets(config):
 
     return thkLR_Train,thkLR_Test, thkHR_Train, thkHR_Test
 
-#make_datasets(FLAGS)
+make_datasets(FLAGS)
 
 
 

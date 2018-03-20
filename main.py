@@ -11,7 +11,7 @@ import tensorflow as tf
 flags = tf.app.flags
 
 ###Data processing parameters
-flags.DEFINE_boolean("save_datasets", False, "Save dataset while running ncProcessing")
+flags.DEFINE_boolean("save_datasets", True, "Save dataset while running ncProcessing")
 
 ###Model Parameters
 flags.DEFINE_integer("epoch", 30000, "Number of epoch [15000]")
@@ -21,12 +21,12 @@ flags.DEFINE_integer("label_size", 41, "The size of label to produce [21]")
 flags.DEFINE_float("learning_rate", 1e-4, "The learning rate of gradient descent algorithm [1e-4]")
 flags.DEFINE_integer("ci_dim", 2, "Number of channels of the input")
 flags.DEFINE_integer("co_dim",1, "Number of channels of the output")
-flags.DEFINE_integer("scale_factor", 4, "Scale factor")
+flags.DEFINE_integer("scale_factor", 8, "Scale factor")
 ###Save folder parameters
-flags.DEFINE_string("train_dir","train_x4","Train h5 file directory")
-flags.DEFINE_string("test_dir","test_x4","Train h5 file directory")
+flags.DEFINE_string("train_dir","train_x8","Train h5 file directory")
+flags.DEFINE_string("test_dir","test_x8","Train h5 file directory")
 flags.DEFINE_string("checkpoint_dir", "checkpoint", "Name of checkpoint directory [checkpoint]")
-flags.DEFINE_string("model_carac","x4_withtopg_30000","Define model")
+flags.DEFINE_string("model_carac","x8_withtopg_30000","Define model")
 flags.DEFINE_string("sample_dir", "sample", "Name of sample directory [sample]")
 flags.DEFINE_string("result_fold","x4_results_30000_adam_e4","save folder for image is 'save_result'")
 ###Booleans

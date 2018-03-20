@@ -2,60 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f38f3f6-184a-402b-876e-bca2662661a5" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/other.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/shelf/unnamed.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_20000_exp/SRCNN.model-1000.data-00000-of-00001" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_20000_exp/SRCNN.model-1000.index" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_20000_exp/SRCNN.model-1000.meta" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_20000_exp/SRCNN.model-1500.data-00000-of-00001" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_20000_exp/SRCNN.model-1500.index" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_20000_exp/SRCNN.model-1500.meta" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_20000_exp/SRCNN.model-500.data-00000-of-00001" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_20000_exp/SRCNN.model-500.index" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_20000_exp/SRCNN.model-500.meta" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_20000_exp/checkpoint" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_30000/SRCNN.model-6000.data-00000-of-00001" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_30000/SRCNN.model-6000.index" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_30000/SRCNN.model-6000.meta" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_30000/SRCNN.model-6500.data-00000-of-00001" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_30000/SRCNN.model-6500.index" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_30000/SRCNN.model-6500.meta" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_30000/SRCNN.model-7000.data-00000-of-00001" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_30000/SRCNN.model-7000.index" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_30000/SRCNN.model-7000.meta" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_30000/SRCNN.model-7500.data-00000-of-00001" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_30000/SRCNN.model-7500.index" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_30000/SRCNN.model-7500.meta" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_30000/SRCNN.model-8000.data-00000-of-00001" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_30000/SRCNN.model-8000.index" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_30000/SRCNN.model-8000.meta" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_30000/checkpoint" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_Adam_20000_e4/SRCNN.model-1000.data-00000-of-00001" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_Adam_20000_e4/SRCNN.model-1000.index" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_Adam_20000_e4/SRCNN.model-1000.meta" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_Adam_20000_e4/SRCNN.model-1500.data-00000-of-00001" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_Adam_20000_e4/SRCNN.model-1500.index" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_Adam_20000_e4/SRCNN.model-1500.meta" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_Adam_20000_e4/SRCNN.model-2000.data-00000-of-00001" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_Adam_20000_e4/SRCNN.model-2000.index" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_Adam_20000_e4/SRCNN.model-2000.meta" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_Adam_20000_e4/SRCNN.model-2500.data-00000-of-00001" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_Adam_20000_e4/SRCNN.model-2500.index" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_Adam_20000_e4/SRCNN.model-2500.meta" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_Adam_20000_e4/SRCNN.model-3000.data-00000-of-00001" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_Adam_20000_e4/SRCNN.model-3000.index" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_Adam_20000_e4/SRCNN.model-3000.meta" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_Adam_20000_e4/checkpoint" />
-      <change beforePath="$PROJECT_DIR$/.idea/DeepIceSheetDS2.5.iml" afterPath="$PROJECT_DIR$/.idea/DeepIceSheetDS2.5.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test_x8" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_x8" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_20000_exp/SRCNN.model-1000.data-00000-of-00001" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_20000_exp/SRCNN.model-1000.index" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_20000_exp/SRCNN.model-1000.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_20000_exp/SRCNN.model-1500.data-00000-of-00001" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_20000_exp/SRCNN.model-1500.index" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_20000_exp/SRCNN.model-1500.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_20000_exp/SRCNN.model-500.data-00000-of-00001" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_20000_exp/SRCNN.model-500.index" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_20000_exp/SRCNN.model-500.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_20000_exp/checkpoint" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_30000/SRCNN.model-6000.data-00000-of-00001" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_30000/SRCNN.model-6000.index" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_30000/SRCNN.model-6000.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_30000/SRCNN.model-6500.data-00000-of-00001" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_30000/SRCNN.model-6500.index" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_30000/SRCNN.model-6500.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_30000/SRCNN.model-7000.data-00000-of-00001" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_30000/SRCNN.model-7000.index" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_30000/SRCNN.model-7000.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_30000/SRCNN.model-7500.data-00000-of-00001" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_30000/SRCNN.model-7500.index" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_30000/SRCNN.model-7500.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_30000/SRCNN.model-8000.data-00000-of-00001" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_30000/SRCNN.model-8000.index" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_30000/SRCNN.model-8000.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_30000/checkpoint" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_Adam_20000_e4/SRCNN.model-1000.data-00000-of-00001" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_Adam_20000_e4/SRCNN.model-1000.index" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_Adam_20000_e4/SRCNN.model-1000.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_Adam_20000_e4/SRCNN.model-1500.data-00000-of-00001" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_Adam_20000_e4/SRCNN.model-1500.index" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_Adam_20000_e4/SRCNN.model-1500.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_Adam_20000_e4/SRCNN.model-2000.data-00000-of-00001" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_Adam_20000_e4/SRCNN.model-2000.index" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_Adam_20000_e4/SRCNN.model-2000.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_Adam_20000_e4/SRCNN.model-2500.data-00000-of-00001" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_Adam_20000_e4/SRCNN.model-2500.index" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_Adam_20000_e4/SRCNN.model-2500.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_Adam_20000_e4/SRCNN.model-3000.data-00000-of-00001" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_Adam_20000_e4/SRCNN.model-3000.index" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_Adam_20000_e4/SRCNN.model-3000.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/srcnn_x4_withtopg_Adam_20000_e4/checkpoint" afterPath="" />
       <change beforePath="$PROJECT_DIR$/main.py" afterPath="$PROJECT_DIR$/main.py" />
       <change beforePath="$PROJECT_DIR$/model.py" afterPath="$PROJECT_DIR$/model.py" />
       <change beforePath="$PROJECT_DIR$/ncProcessing.py" afterPath="$PROJECT_DIR$/ncProcessing.py" />
-      <change beforePath="$PROJECT_DIR$/test_x4" afterPath="$PROJECT_DIR$/test_x4" />
-      <change beforePath="$PROJECT_DIR$/train_x4" afterPath="$PROJECT_DIR$/train_x4" />
-      <change beforePath="$PROJECT_DIR$/utils.py" afterPath="$PROJECT_DIR$/utils.py" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/shelf/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -83,7 +78,7 @@
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="432">
-              <caret line="33" column="61" lean-forward="false" selection-start-line="33" selection-start-column="61" selection-end-line="33" selection-end-column="61" />
+              <caret line="32" column="37" lean-forward="false" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -91,11 +86,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="model.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="model.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/model.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="672">
-              <caret line="161" column="0" lean-forward="false" selection-start-line="161" selection-start-column="0" selection-end-line="161" selection-end-column="0" />
+            <state relative-caret-position="3366">
+              <caret line="193" column="42" lean-forward="false" selection-start-line="193" selection-start-column="42" selection-end-line="193" selection-end-column="42" />
               <folding>
                 <element signature="e#0#50#0" expanded="true" />
               </folding>
@@ -107,7 +102,7 @@
         <entry file="file://$PROJECT_DIR$/ncProcessing.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1008">
-              <caret line="64" column="21" lean-forward="false" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="21" />
+              <caret line="64" column="20" lean-forward="false" selection-start-line="64" selection-start-column="20" selection-end-line="64" selection-end-column="20" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -127,6 +122,19 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="288">
+                <caret line="16" column="19" lean-forward="false" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
@@ -140,6 +148,8 @@
       <find>batch_im</find>
       <find>learning</find>
       <find>visible</find>
+      <find>ada</find>
+      <find>self.model</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -149,9 +159,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/utils.py" />
-        <option value="$PROJECT_DIR$/ncProcessing.py" />
         <option value="$PROJECT_DIR$/model.py" />
+        <option value="$PROJECT_DIR$/ncProcessing.py" />
         <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -182,6 +193,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -189,16 +201,10 @@
               <item name="DeepIceSheetDS2.5" type="b2602c69:ProjectViewProjectNode" />
               <item name="DeepIceSheetDS2.5" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="DeepIceSheetDS2.5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DeepIceSheetDS2.5" type="462c0819:PsiDirectoryNode" />
-              <item name="checkpoint" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -315,22 +321,29 @@
       <option name="project" value="LOCAL" />
       <updated>1520889576869</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="final commit">
+      <created>1521492309004</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1521492309004</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15714286" sideWeight="0.5277778" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15714286" sideWeight="0.5405983" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18910256" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="0" y="0" width="430" height="853" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15714286" sideWeight="0.4722222" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15714286" sideWeight="0.4594017" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="WINDOWED" visible="true" show_stripe_button="true" weight="0.51428574" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="1920" y="79" width="1600" height="821" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="WINDOWED" visible="false" show_stripe_button="true" weight="0.51428574" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="1920" y="93" width="1600" height="807" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19497864" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2596154" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26869658" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32959402" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -346,6 +359,32 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15714286" sideWeight="0.5277778" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18910256" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="0" y="0" width="430" height="853" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15714286" sideWeight="0.4722222" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="WINDOWED" visible="true" show_stripe_button="true" weight="0.51428574" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="1915" y="12" width="1600" height="863" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19497864" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26602563" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32959402" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -354,23 +393,14 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="final commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="final commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/utils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="42" column="12" lean-forward="false" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
-          <folding>
-            <element signature="e#94#103#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/model.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2214">
@@ -842,9 +872,19 @@
     <entry file="file://$PROJECT_DIR$/ncProcessing.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1008">
-          <caret line="64" column="21" lean-forward="false" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="21" />
+          <caret line="64" column="20" lean-forward="false" selection-start-line="64" selection-start-column="20" selection-end-line="64" selection-end-column="20" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3366">
+          <caret line="193" column="42" lean-forward="false" selection-start-line="193" selection-start-column="42" selection-end-line="193" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -852,20 +892,21 @@
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
-          <caret line="33" column="61" lean-forward="false" selection-start-line="33" selection-start-column="61" selection-end-line="33" selection-end-column="61" />
+          <caret line="32" column="37" lean-forward="false" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/model.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="161" column="0" lean-forward="false" selection-start-line="161" selection-start-column="0" selection-end-line="161" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="288">
+            <caret line="16" column="19" lean-forward="false" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
