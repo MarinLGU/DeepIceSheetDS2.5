@@ -35,6 +35,8 @@ Endly I splitted both labels and data using Scikit-learn toolkit into a 140 (inp
  **for dowscaling >2x**, the program can be called a **recurrent-SRCNN**, meaning that, for downscaling 4x, the LR map
  will be first downscaled 2x with a 2x downscaled label, and then the 2x downscaled prediction will be downcaled another
  2x with the original label.
+ The main model I use is a Deep Convolutional Neural Network described in this [paper](https://arxiv.org/abs/1501.00092v3) by Chao Dong. 
+Loss function is Mean Squared Error and the optimizer is Adam Optimizer. 
 
 ## Results
 
