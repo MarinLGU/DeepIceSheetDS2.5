@@ -12,7 +12,7 @@ My model implementation in Python3 of SRCNN using Tensorflow has been inspired b
 tegg89 repository(https://github.com/tegg89/SRCNN-Tensorflow).
 
 ## Methodology
-I had an Antarctic thk [dataset](/data/RCP_start.nc) with a 5km resolution. This dataset also contains 
+I have an Antarctic thk [dataset](/data/RCP_start.nc) with a 5km resolution. This dataset also contains 
 topography and surface's nature.
 
 ![RCP_start](data/RCP_start.png). 
@@ -38,11 +38,19 @@ Endly I splitted both labels and data using Scikit-learn toolkit into a 140 (inp
 
 ## Results
 
-**4x dowscaling** (100000 epochs, learning rate 1e-6): bicubic error : 2.6e-4, model : 1.18e-4
+**4x dowscaling** (100000 epochs, learning rate 1e-6): bicubic  RMSE error : 2.6e-4, model : 1.18e-4
 
-**8x downscaling** (30000 epochs, learning rate 1e-4): bicubic error : 1.6e-2, model : 7.1e-4
+**8x downscaling** (30000 epochs, learning rate 1e-4): bicubic RMSE error : 1.6e-2, model : 7.1e-4
 
-**16x downscaling** (30000 epochs, learning rate 1e-4): bicubic error : 3.6e-3, model : 1.1e-3
+**16x downscaling** (30000 epochs, learning rate 1e-4): bicubic RMSE error : 3.6e-3, model : 1.1e-3
+
+Both bicubic, model and label plots can be seen in these repositories : 
+
+[4x downscaling](/x4_results_30000_e4)
+
+[8x downscaling](/x8_results_30000_e4)
+
+[16x downscaling](x16_results_30000_e4)
 
 ## Issues encountered 
 
